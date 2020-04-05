@@ -1,0 +1,13 @@
+button {
+    width: 25%;
+    height: 70px;
+    font-size: 30px;
+    background-color: #000434;
+    border-style: double;
+    border-radius: 30px;
+    color: #f6fff1;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
